@@ -1,6 +1,6 @@
 # soldering_iron
 
-Schematic, PCB and Firmware for a temperature controlled soldering iron.
+Schematic, PCB and Firmware for a temperature controlled soldering iron.   
 Based on >> https://www.instructables.com/DIY-Digital-Soldering-Station/?utm_source=newsletter&utm_medium=email
 
 Design Notes:
