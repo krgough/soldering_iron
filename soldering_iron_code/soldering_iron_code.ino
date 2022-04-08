@@ -24,7 +24,7 @@ Readings were calibrated using a thermocouple attached to the iron tip
 #define minADC 222       // 0.487 * Gain (2.22) / 4.88mV (ADC step size) = 221
 #define maxTemp 500
 #define maxADC 670      // 1.572 * 2.22 / 4.88mV = 715, 650
-#define numReadings 3  // We average over 10 readings
+#define numReadings 3  // We average over 3 readings
 #define hysteresis 5
 
 int actualStore = 0;
