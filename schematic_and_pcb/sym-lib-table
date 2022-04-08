@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ARDUINO_PRO_MINI)(type Legacy)(uri ${KIPRJMOD}/soldering_iron_libraries/ARDUINO_PRO_MINI.lib)(options "")(descr ""))
+  (lib (name smps_24v_5v)(type Legacy)(uri ${KIPRJMOD}/soldering_iron_libraries/smps_24v_5v.lib)(options "")(descr ""))
+)

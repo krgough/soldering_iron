@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SMPS_24v_5v
+#
+DEF SMPS_24v_5v U 0 40 Y Y 1 F N
+F0 "U" -300 200 50 H V C CNN
+F1 "SMPS_24v_5v" 100 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -350 150 350 -150 0 1 0 N
+X GND 1 -450 -50 100 R 50 50 0 0 I
+X Vin_24v 4 -450 50 100 R 50 50 0 0 I
+X GND 2 450 -50 100 L 50 50 1 1 w
+X Vout 3 450 50 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library
